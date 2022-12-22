@@ -1,0 +1,5 @@
+public class Main {
+  public static void main(String[] args) {
+    System.out.println("This is as close to an easter egg you'll ever get with me");
+   }
+}    
