@@ -1,0 +1,5 @@
+// Repository for the code that shows i know the commands (GIT)
+   https://github.com/Hauxy17/Checkpoint_GIT
+
+// Repository for Java file and to show I can create one in GitHub and work in it (GITHUB)
+   https://github.com/Hauxy17/checkPointRepo/tree/main

@@ -1,0 +1,16 @@
+Questions in Checkpoint
+
+
+1. View the history of the repository?
+
+   I would use git log
+   
+2. If there are outstanding commits to do
+   
+   I would use git add
+
+3. Start a new repository
+
+   I would use git init
+
+   
